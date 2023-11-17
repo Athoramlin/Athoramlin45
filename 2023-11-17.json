@@ -1,0 +1,26 @@
+{
+  "name": "Chris Walton",
+  "age": 60,
+  "address": {
+    "street": "Kocra Terrace",
+    "city": "Tonakki",
+    "state": "MO",
+    "zip": "54419"
+  },
+  "contact": {
+    "phone": "(278) 933-8069",
+    "servicePhone": "800756655"
+  },
+  "birthday": "1985-08-17T13:42:42.209Z",
+  "ip": "16.247.35.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Pev javwodvog opweg uc fuwnoftel sipogiget bogu hij uwi sirupzog zu usise evakued of ikomesa icuif likrunol gemolled. Zeonuduv mor segkomud lurudak gurozfop wa heukeasa caksiji tis arfer som magbi saw duumuha noappir. Neb itmak danamah kugunfej ideikse lafucol cet ala rojpebel cec hifi cewsu ud bijjel.",
+    "bio": "Ewi ipabi rohuz juh tif kede uzorezer vifajbug bucwobo we fivociz ronda. Namegew futjol juduwo nugzehmid rupo resmu macu feg no ciohgud ehaza bokiza uc. Pa ilibagej vo mo dagof dukuak licsak mob ane vuditlir jet sourgo zeflozmon nabiri susen savozod makgef."
+  },
+  "apiKey": "d684eebed1ad0a539c7e9a55b08e23b1221e7c1b010dcaf9366864791f283ae3",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
