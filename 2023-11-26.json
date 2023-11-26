@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Kennedy",
+  "age": 40,
+  "address": {
+    "street": "Epapi Extension",
+    "city": "Ikupurva",
+    "state": "WY",
+    "zip": "35445"
+  },
+  "contact": {
+    "phone": "(930) 390-1382",
+    "servicePhone": "800177762"
+  },
+  "birthday": "1965-01-08T08:02:28.038Z",
+  "ip": "11.40.189.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Bounvil ocu luapuik enelu ven ugkum rafac vo vuczag avfa lunte heg vole wegefo. Adi pu fopi seg ke vepup vun ezo ca leewo jorwes silzo wuf meuh ke catlelgol evagukwum. Pisuglu zolawi akeatje fazbidu oh durhiz beikfuz codvuba dapit cujcaf zizbew cucmohve ijte ecwem.",
+    "bio": "Va aluigufa zowugbe seak wenubod mup ni emsu jib ow mas bi ga le. Puplusmar ucvawo rofmeb lutomudop ok di zialjah jis noun adpinhaz zebnivib lirjuvne vodtof pubhag. Fijofol pihlazki asoacedic zicvoma zep cechij napwoz zepmuzu ma emopufe jihva fiwtovwen kiwo. Jiil emcutle menikuc pize keihgu zop vavazag gorap lan poviwloc tujeepi puloreb."
+  },
+  "apiKey": "aa093c6562d82ff11c64b2b1cb785c5f300c233c81aef32b3ea29915d02c07e4",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
