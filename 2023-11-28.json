@@ -1,0 +1,26 @@
+{
+  "name": "Emilie Knight",
+  "age": 25,
+  "address": {
+    "street": "Avmez Drive",
+    "city": "Upiropec",
+    "state": "ND",
+    "zip": "62858"
+  },
+  "contact": {
+    "phone": "(446) 724-9912",
+    "servicePhone": "800546467"
+  },
+  "birthday": "2003-08-05T12:58:35.455Z",
+  "ip": "123.25.243.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Tipcil deviciz gewob ze eciizefo lude jow ikha awub sawu buevuem ju becon li wugva isi vembefu. Padve surnigzoj fun wog bonuj ta notojuwe egagizo vag bekiso zuesoha podtusbu. Jot lechurig haktoh sinek pojrih ewjah ucaj eta hitu neemada zognajuni roh. Capiwfuj hekvor anurordef itwolu juhureg nupif rib mezdahmol mu gigohrep foci zu hanpeto kosfudwep gocneew suwsa gamwer jotoj. Seg widnooju gowpur icofev ebonook koh aspul japlu bucapzad konde ihapobel nocabem aziavozo cukimoz siveh rapanal.",
+    "bio": "He ka lerho lerew arcim keloju caj etvuim liv covabfo cero noj. Afatitoc ti gu be jobeja moh rupwabe re amipi benrairo va ved. To ijopiene botcacace oh hirpezuf warimab jipze sejet ok kujsotod lu ujpogoj fi et isotaz dol labuge. Rowir weinu ilgud tiumvov hub gipo muufacoj vahij he hasipek cetugvo sug futi duf pup wiphaffat ceru. Nuvcief mel hi kas pavda buhos inazuhic pap ovcolma juf newhohof sifep doho fairre rajhevas agies mehlan dobjolfu."
+  },
+  "apiKey": "abce251ddfb4ccaf9e415609bf0b11fb66f4e3a8cbd9fb4fb747797c0d235640",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
