@@ -1,0 +1,26 @@
+{
+  "name": "Bill Bass",
+  "age": 41,
+  "address": {
+    "street": "Wijze Mill",
+    "city": "Teemvik",
+    "state": "ND",
+    "zip": "52980"
+  },
+  "contact": {
+    "phone": "(886) 475-4195",
+    "servicePhone": "800318417"
+  },
+  "birthday": "1974-10-10T19:30:31.720Z",
+  "ip": "139.25.232.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Bif eziviz ewene ewbesad cib ehiti ipo tetigcap igoeg pet sa fikse. Racow jitwenve navodek rulu isabombib we cawizoab azpespot meser cedin cume hu depilimig zumi ka mejvul zehor. Lu cimupuw dolud tunlih hes widu vi bup cowic tawedcij bewavoc reef molfebvad reoflis. Bah uwecuvruz ar saw lijoho hob kaimeolu acu zol pied gegtebu aze uhvojga.",
+    "bio": "Ki sofog ruvcaw paz avail koksefec jepuh luv zi pencim lapfef femodaje fekgugfu silosfal uhaema. Had ki soiwa udaofmok moere mep cet uzoge udeine bawi cesuki muh ar. Uz ilro wawfog ok kurostok werec rik setodpag awiraji julak lu ce fepuhru tibuppow ropfumhil."
+  },
+  "apiKey": "c29ee63d93044d76a7e07b2c3a6a6256b0c5278987877782992edd0b7e9bfd5d",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
