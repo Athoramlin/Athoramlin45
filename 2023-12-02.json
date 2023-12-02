@@ -1,0 +1,26 @@
+{
+  "name": "Luke Harrison",
+  "age": 57,
+  "address": {
+    "street": "Zoppe Square",
+    "city": "Ekahorus",
+    "state": "MD",
+    "zip": "43400"
+  },
+  "contact": {
+    "phone": "(668) 463-2093",
+    "servicePhone": "800591515"
+  },
+  "birthday": "1994-03-10T14:13:44.358Z",
+  "ip": "52.126.160.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Mibawe firivajig tiffahbiz lupbuwna rabmaztav mo gus ni fobba hu dovcofhaf zuf wev wemid. Ref afo ewso vih etifutzu dippekam ur jonej avruun icle du lukjioz kumgazi roera hop zele wacebu tesu. Mejur kuapta doh hir senbe ovujewo metvu hav do loog matsiv vaadefeg kob ti hele dufmubsij voptu. Atidac kagohvi seeha fapiese voneku hawwaz peknov idu elpivin vifersin tuisu numwiuzu.",
+    "bio": "Ul se miedefu huf zecibipo ge hakup mam kojuwo deajwe bawawaj faj. Rujgimef nec olcijo pivaw fowwaluk cuv ef tarec oru fod oke duw werum hudgi ihihi. Hezki baewo puedni cid zuf su dut sagha nuwawiwob apejuheg ukaicimos migaw cufelape. Utunohco zigijpo ajtuwhed hodli wah wuc meupgo vaz zepa bo gu datanaari bedochut. Pemvo zin tajar gok zernilu rode udu co tacofrok hu ade letosu rofadmec voso fidfis. Osigar ijlu bucuhas noafjin ejole jor mofzibuv ez rozuve du himefaedi malpo he belfipbu saf."
+  },
+  "apiKey": "6ec47585567fe4dd9d2272e26c7b035beb805c5e96d8b3395d38d737d47649f2",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
