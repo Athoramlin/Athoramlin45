@@ -1,0 +1,26 @@
+{
+  "name": "Willie Reeves",
+  "age": 46,
+  "address": {
+    "street": "Erifo Court",
+    "city": "Zajamic",
+    "state": "MI",
+    "zip": "51819"
+  },
+  "contact": {
+    "phone": "(428) 689-9785",
+    "servicePhone": "800931952"
+  },
+  "birthday": "1969-10-31T23:32:56.935Z",
+  "ip": "168.252.84.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Rul igfed jap dafkum ire rej aj ibope suc boaz tokowe coj puev wopkitasa ocofezcir. Wavo ciw tu cianoci ve mac ke rufa temzecej ehuwiij zohin sekwi tuve nisiz. Demwa silbi okacoso it tat beprugit anas po bi naf fihofaw dendeupa fop. Vehvarzo kefom vaen dutnatoc rowsavo lubot dibidi juhrepnoz pipalsak ami ere sed sen ipujewpo hakgauzo riwisaf didsehbe.",
+    "bio": "Usow ruc zuhev jegu tefav be igi ap ecokohit je pavun ke ujmavogi bag tapin ra dewor zijgulo. Mel zi at wo vavodici kavse hovor amfullit jizohjit zuuruho ivmufefu iros ti lun umjijoko pe vizrub najmu. Zug mug fulok oke mu zovadukis ela vubellav nabkan sajhe gimopo bawado bose. Hebgovaz fu inoneb kubje zu pekroj mema fikevlev miri mez cufirace burar ciafuage essu kujnufco vej. Natuwvi en gokoteov foibte fezen bi puwabro fasbu dupuvzo lil liwu ca nu ure davi."
+  },
+  "apiKey": "fe7e3e410f5d9ed024e04b5fb96cf2853c458bcf55057c2d0f3c4f5131350571",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
