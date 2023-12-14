@@ -1,0 +1,26 @@
+{
+  "name": "Joe Baker",
+  "age": 51,
+  "address": {
+    "street": "Boni Drive",
+    "city": "Vubabu",
+    "state": "NY",
+    "zip": "86970"
+  },
+  "contact": {
+    "phone": "(212) 870-7586",
+    "servicePhone": "800441348"
+  },
+  "birthday": "1991-04-07T06:36:20.742Z",
+  "ip": "174.58.113.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Za nosahgup ahefozol ni tenum nanjouvi alcuz ujhap fasdaw lugebo kevsom uratezzun pifil. Ozuenuge ekfub adu bulifa ofegurvic pevho ehpi efu getug sage cejofo mareba ahniwuj cellu epevo tiuh. Ajepamla sa ijni felaju waerhi ephewgoc mioc bo pes huhituv houp tog hesizuk redefje atiiz hotu.",
+    "bio": "Jakzuh caohrij nawawob at jazip ta kumup pek ri padureoc esbab ni ro kicufu. Pibjagum vetnova ulesu ip ifwer ep petrij muw am viz guvbiwpe vosuz ko siba. Ogcuanu betuv bamhah si wuggita mirjaz aminaz otalezov ubidete ajdiv zalma kolat fivrid radha ci mugbuzdo duz suvafoj. Vogej avunuk ono api ow ri kiwza sa kufta jijvowe nezeh co wogazu. Iseupi tolodon getawvar serevesad og je afucaz zikremuj ifegidtes sigakina bame derefrup we miljec cu ikoehjeb dah bevwepac. Peg rircigted heoduuna voc favteet ukcufvut lih zec oruwozsaf wo waguwmi ud kutcih cac dalpo zu avijju. Uhmas kabi inapu tud wupujugi siidbe ra tubmaeh vah larezo fuk sog afejikiz widoido sa ileri."
+  },
+  "apiKey": "7e050fb64ecd5f07857fe61f2e6cdaff5e2f81df51640d11844f4b309f406a97",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
