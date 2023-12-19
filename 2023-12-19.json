@@ -1,0 +1,26 @@
+{
+  "name": "Alan Klein",
+  "age": 21,
+  "address": {
+    "street": "Nivkun Path",
+    "city": "Napilbut",
+    "state": "ME",
+    "zip": "42818"
+  },
+  "contact": {
+    "phone": "(431) 653-1793",
+    "servicePhone": "800864564"
+  },
+  "birthday": "2001-01-15T05:49:35.540Z",
+  "ip": "177.181.46.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Boefa se vif calrupje ijuriv ja ir kiuga nijofocu tucosmo isi muc hes ijakepu lo. Vef mipteten goeculas wol zo vepaveok soh fa vi asnoic ojjew dojtug ji azo evo. Uvtu upoojuhe in inedezuh ejiuc azariun bithalsiz joslujip noute nali agij zofrisi so pibvu wet. Lunojun ruow zopmo seni jo voucumib vev cebaj povwoktu pewjum fatov jicsef dachiz tegkimdi wur opu gizaz.",
+    "bio": "Vipda hal laopozep few jofo rehvel re da puntur ta buzis pup wir deju sagowu lu huj jedaz. Cakado su ofaidula awde juiwso laivubi ogma kef veb wogif beef usi bocas. Mut tup ifemopbe bur gubsarza mawot suico cuc kejlabu vinowire mu papvu aw rah awegi jov faupja. Dem ke fuwis vagwogkur guje cucosdin zim newniow tam kozenuev umvozi ged cu. Ibilacu ju ofamo ula nuvedsok tu horpej tivus mokdon ravakuda hezib puhu oviigu bagigi levise. Isgedcar bo fone aj vu elom keptosa ka walab ureegecen ri ijfu dukde cegijus olkako vunera. Conmi etisumi nuwren ci nife cosuc er itpa uvhi fa bezju hi goulalo rommacucu suetcok."
+  },
+  "apiKey": "35ff546bd663600b0b3329004ce4b6d32b503813391410f88549e8fc210d7f19",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
