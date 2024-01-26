@@ -1,0 +1,26 @@
+{
+  "name": "Louise Lyons",
+  "age": 23,
+  "address": {
+    "street": "Podok Lane",
+    "city": "Noowsa",
+    "state": "DC",
+    "zip": "03810"
+  },
+  "contact": {
+    "phone": "(625) 272-3381",
+    "servicePhone": "800188286"
+  },
+  "birthday": "1987-04-27T03:44:39.114Z",
+  "ip": "26.5.119.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Gap vulunona wunlazha zirdazun abeh ortit azna ofkogzon zabduba sa pifiwaw ir ikapugre wuhparveb dulmef. Potuzcu resabuih fivco bivifpil jojef rovetofe zanozohef ko canma raik pir mu dulliker ot. Ova pifibwec ombe jijsoduni upudah aku dol koera mivhu wuwun erinatto osepe. Cafta rabe ruwono damgut poakila fep viszula rukkeris legji gelize nizov ru me nead jimobmoc koepe gajodjuz odwup. Fovu jow nonaug gotit limi won pi basoba ciltice ladbikpeh me tuorip hapsuz jak omeraj nirobed doderu ir. Zap mezub pidlidfis movablo fazimoha purigaho ehi suv ci dolpuwab meblesa pa pomigwuw raskiv mehdiwin zur fi.",
+    "bio": "Nofco me fenu magokdu wis rijus majwam luvid movuf ci daka mifaju rohe ipegtoc helar wihemsub pougpav. Ovsitwo zolaffu uremaito vof siwep tasow ajolev jodsudob vo duni tek solasza sutlukgev roraw nusaz dirucop gamer agza. Efjuac woofu izi eroeno wip hizomho un vizlus sodgamfa leekaab himuw paz ajkuf nujenbo net afveraj zeche rocfu."
+  },
+  "apiKey": "2e24e7e61d8d6da3edc2cd4e56d5e6812a9c4a5701ac7eda075e683e1a18dea6",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
