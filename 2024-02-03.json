@@ -1,0 +1,26 @@
+{
+  "name": "Irene Vega",
+  "age": 35,
+  "address": {
+    "street": "Renin View",
+    "city": "Loleun",
+    "state": "AZ",
+    "zip": "60642"
+  },
+  "contact": {
+    "phone": "(816) 526-3764",
+    "servicePhone": "800456661"
+  },
+  "birthday": "2005-03-31T17:00:46.760Z",
+  "ip": "159.18.32.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Efe uneekuogu vi wag tubome sew binofa nujdattuv letcu tikjeve no co bebunen fitiwoke egojvug elneob maobo kureg. Badzew zetucnu uk rimiza owu ogbopos nicroor viab ga anfa ucapa ej notaru novcon uhufunem jerhote jopme rikuwhak. Heen uki hon ju gu umemibpoz lojawfe tihcah vakuw zicosac fivisu eceja zen ormosgo ivifuoh. Zez ribe helfip giwaka pi mursatgi diav puj hurhaman sufhotpub cicendo move kiapita. Zil viju isozas juvepi cowgaw azo puk widueli ko ikcombap wothezi ojago tihefwo jil hunnapu cub gake.",
+    "bio": "Un zu hihakvu keloh zu agcuzopo ew efomutot tidsaj epeca raz gu ukdofzol wujdoew bewla lazfettub. Azi cofitih mu il maliih avulile eperoose saun josigso jawba begavrag ruefo ehi ku ibeeli kefu ara. Zumi irliswi megiepo ur zugucvaf muwmiti jentev wip olicinuf bi kad ham hujeom vujzabgo irenumot."
+  },
+  "apiKey": "d27630e9c1c3ebfa9996e5bfa983586c46b28566e299905e93ad29c83f9ae4f4",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
