@@ -1,0 +1,26 @@
+{
+  "name": "Frances Hunter",
+  "age": 50,
+  "address": {
+    "street": "Iluzar Court",
+    "city": "Suzrelor",
+    "state": "VA",
+    "zip": "55454"
+  },
+  "contact": {
+    "phone": "(889) 393-4318",
+    "servicePhone": "800911432"
+  },
+  "birthday": "1993-07-22T12:18:39.343Z",
+  "ip": "138.47.129.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Tevkaca ifaeco ju okunese kufki pobdopu kebeto sofe bahmetpeg lohog vudofu he gapep. Faupo agibi lu azu ew ognuzde le mevonga rive uh cueje ur hebgu afgegaf sodkut adli maalbod. Du uv hecej ivumwom kuzca umajo paega duzfagi osu ivuuhze runbuzso umavomser duluhpib fa zonwi. Edjili tef ladcobsuf lobecmah vujupli udjere tembaonu towegen ma jo ci ej nuej. Otiwa uf roja nikifuca piwofa unle de lu ankuob camruic erifejse zokalbi afe ofcivip otseje hentej me.",
+    "bio": "Vinojlum uh ha cakte nuateuf gozeh diebo puctisfu arefowi wev ja siuwi etde. Vabbigot hisri wughetne vi ikeep bezsar genpin zopit hobniw mertuew horojzut ibomute kipre. Mifu mifudri tujoj refji usepi arukimeb mifogeuko gi tirogu kagjuru kehlud ec owisod oga. Zetofeh ikaji dowi conour odunouli od lesagmu wiwkeura tebeblic so jeban bofwoba fol hotfu deolmuv culga ura."
+  },
+  "apiKey": "f8653efe9e7da16a5e78029f802eadd79b6dc197e4a2eecf522cc9999acc789d",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
