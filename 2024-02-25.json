@@ -1,0 +1,26 @@
+{
+  "name": "Jane Steele",
+  "age": 34,
+  "address": {
+    "street": "Kotu Ridge",
+    "city": "Raczapbo",
+    "state": "NC",
+    "zip": "65109"
+  },
+  "contact": {
+    "phone": "(646) 990-2472",
+    "servicePhone": "800559239"
+  },
+  "birthday": "1987-02-16T16:17:03.448Z",
+  "ip": "220.163.212.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Gaje ut ugagi seturka fi acfoeli helzecumu efwijdot ob mafju wonbofo vahof kobki mozajo iwrepo. De bec atri kivjamzim ite mi mubgur er jawloafa nuekuzu vakuw cuavbez we lagalat. Busecut bopifo ejlom fe ledpi umwon pa irlilek ovebim ucfapel zurotir det lifa cajrovut ne hudkorag.",
+    "bio": "Kumupoda to ewooczic noas kaklosur jurihwu taca jivu iplunof bihrertem fiv zut re emaj aheajko wumofa. Elluvuw wirguow hihwef uvwaep uvtec cijfoenu fu uj nuviv ir diberri ciwwoz jigozfi woh etcilid cige riec jafjucam. Celpom se puwinbo upubesir waje nozkonoj riser lilhip ozdiwho behobu fipviz teuju ulra wof."
+  },
+  "apiKey": "66d3e384294e0dfbe6dc13377967f7f01d2b8d0ef00baa79c9feeb64965785a6",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
