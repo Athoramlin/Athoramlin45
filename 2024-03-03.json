@@ -1,0 +1,26 @@
+{
+  "name": "Adeline Mendez",
+  "age": 20,
+  "address": {
+    "street": "Citib Glen",
+    "city": "Obhecu",
+    "state": "LA",
+    "zip": "28683"
+  },
+  "contact": {
+    "phone": "(886) 369-5850",
+    "servicePhone": "800777994"
+  },
+  "birthday": "1981-12-14T00:42:58.425Z",
+  "ip": "152.59.221.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Rih samoka soz rudiede kodro galude is lij ten laz ake cavuh coal betopiga. Zun diup fuce amgiw fatvutiv mezmu bipvu evsafuku neofi ramhe za ibkif huc bifanis. Ifhuto ducdifki tedofa ujvutjo memeswon pi eledonsi kalkesgi go segfemwi muhlu lagmepod piata ibu ci karere di. Toujhuc og leb awhezdak lojada lad ka ru ga isino iv gu cil lijen ake uz.",
+    "bio": "Mujgef fi atte sajab ewjeg nirigum nukka zen difva jihes jin mevham ba. Eja pafuv onvip jo noctetav kobovu me ufifov daukupu vugmebi wo hu ammihu gu got regamrof ahemo imeucidu. Jenzowubu nepivu dimiheh re fi jouzelo gutum pozpijhiw zed pa zorij ze ta hofpofuz upnop vud jef feru."
+  },
+  "apiKey": "80f990c3e989157455815cb524d67b6950873654d597b4e25c0656c1d2202008",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
