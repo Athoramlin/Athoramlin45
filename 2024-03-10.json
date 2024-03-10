@@ -1,0 +1,26 @@
+{
+  "name": "Oscar Schwartz",
+  "age": 28,
+  "address": {
+    "street": "Sizam Road",
+    "city": "Muevnac",
+    "state": "ME",
+    "zip": "81597"
+  },
+  "contact": {
+    "phone": "(488) 964-4753",
+    "servicePhone": "800916562"
+  },
+  "birthday": "2001-08-09T01:18:47.972Z",
+  "ip": "51.237.172.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Jolufed wirvev uduorjiw gow het poj of ewme ihe murpah kum afecef mo ucdec puda damfiguf. Ga oc duj tojnota kakazaiwe tisa bamjos gubekiv na zih bojog jiwmo olomu heczulufu ogoemi verfignu nihaib. Hus doz ano naf gigfoh lorzusu sajezawi mof hu bi vokjo son.",
+    "bio": "Sobdalfo go titgac ahbarluj ozpuhi kum mukak saber gat avaujnuj mi cicridige tiw vijaka. Pu ruwtu kop hinle er ejtohiv fatnevuv bob ajebki su dinvevif bevtup ofipuc imagizud. Dune gudfamo fu of zuhe vaole albo moala zomieb wuk setu guklivgu cahihkot ruf."
+  },
+  "apiKey": "8ac0dbcf8add6fc421e0ba472fff20d0f2e9ccc717239b23adbe4eca01a050e5",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
