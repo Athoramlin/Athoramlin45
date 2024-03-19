@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Alexander",
+  "age": 28,
+  "address": {
+    "street": "Hejil Highway",
+    "city": "Purijfil",
+    "state": "TN",
+    "zip": "27747"
+  },
+  "contact": {
+    "phone": "(419) 567-4154",
+    "servicePhone": "800429221"
+  },
+  "birthday": "2006-07-07T00:20:52.936Z",
+  "ip": "226.221.5.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Kejfamok weewoka lufur rek gifwus konwuz pakva to od zuangi ufahe pab avri. Azu pumse nef risovoaz pelit lontubmum wu ok pej icalisep tog zelhen haw. Bo ajomon oriwahib legtulrah ho nulejo mewbage giofo raboj bopniz na degjuccu.",
+    "bio": "Sectes laamoija bu mejaf jipel tedi oha hif mocajiha giolle lo vew. Tatme iro asjisup us ohzev suigi tifhurad kostakmen bukdo rizo mebobe vif golu. Atesike mu jeg aceted deva nesgel abukuza kagrebos ejjorhe zeref fecinmab cah beb. Tompi tozcanbi bo perwu seczeme hojokiz wupas il ep kuruuru dakikueha ekataod wuvono mulcow fesjo uwaigrom. Ribfas umajubut be vog weh kuvion ece ij erudodguh fe no ku. Jaeka ze om dojpod nateebo tipfa na jemubji du fizvi mewerra jeojfe kur zima honzoza abpip wel. Cubos beemuut cakufe kom tomavpaf ibu sip umane ojruopu nahap mabkuilu bovtoftu hu nabtof."
+  },
+  "apiKey": "636c38a00446abe77399ba876039775bcd0be64699dce534ad5b5ebf25c2b59f",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
