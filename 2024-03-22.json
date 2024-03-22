@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Moreno",
+  "age": 27,
+  "address": {
+    "street": "Tisa Square",
+    "city": "Zezutu",
+    "state": "OH",
+    "zip": "37680"
+  },
+  "contact": {
+    "phone": "(612) 701-4433",
+    "servicePhone": "800929775"
+  },
+  "birthday": "1964-12-24T09:30:33.774Z",
+  "ip": "25.163.225.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Fadomeb saf cujaz ja ku avovofeb ilasi ve siface coposo pidbe koj lohakuso ke. Fe es cojhupva vafgabbac ude moltibre wavnisri raz zaden okagacab vad opsad. Omeenpi uz der rolca haibatu battohku cigdemce ha jaswo ukugec mij opode da lidawag kerowujo. Rout imi sansod bogifem ogja miut wol obgofak rogasa goldi num kef vuuk ji womtu su itwirli. Met vizda cebugha sahe be usovet bid lal saf gu sis cusiw ko jol. Wuri tiwhoavi zagbupu morseawu fepwar juvob dag ceh jablena tofsojfi reh gieje rot peki enhis noge juwisem veb.",
+    "bio": "Pafi gi ivipekuzi efsut ka migur ec lawdon nehu mufi tuh diwemiec vope valjautu egaeji kapi egoven. Wepodoha agi ilmi ibu epuok wo tak sibi wapazpuf gonora efahif pakuvele japogi bekolid ras ep. Fiszac us nakbu ik dug bagi ti ugaiga ehubok hinpa uw zusep gorka bavosuz punvac jo. Hos fek dotej dabwulet zucmecos vigfemfat eripenav gocew ceke ihicizfog fe riag aha kojav ti detjav naetuta."
+  },
+  "apiKey": "8ae4f2bc38c18758792b00cd4c35bd32e69a67e1c992d676b686143d0a89af27",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
