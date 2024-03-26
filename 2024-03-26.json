@@ -1,0 +1,26 @@
+{
+  "name": "Virginia Marshall",
+  "age": 23,
+  "address": {
+    "street": "Asapu Circle",
+    "city": "Nibnuas",
+    "state": "MS",
+    "zip": "79271"
+  },
+  "contact": {
+    "phone": "(487) 454-3952",
+    "servicePhone": "800371796"
+  },
+  "birthday": "1969-11-03T12:21:43.490Z",
+  "ip": "199.23.92.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Vom bar le ezome keh acvi hi lubaswud tedvo rac gut fevheuwa. Jifihoev idi jurvevpi va kow uluvosez fi es ba nosiwe jutiw poc fitdo cavjara. Vum kewojani ozazo rit vizji nuc saf devocu fokogra piipi guwiz ipune wi otwip.",
+    "bio": "Telabcok jugircer hezrova zol zu uhepku da torlope nodogiwe nanavfud wit tubeggi wah manuhza oweimisod. Baufu luvsupuz fokoca kecipa hipja reb idsi fapad ufelu nejurbum reiwipar sa. Tet apa oj ehsaelu kozocse kehritpek rosulni poh bug gulucek rajsa pa onmokpe ko. Ovofi nukalon maj gelaheci ozmahne diig heit huffebsaz avehom zarku amzuktu loguiv vevew ar doraw cakafo. Gempikrov vuzcu jegu tiecpoc ulej fu fu je gi as vujol uplaili."
+  },
+  "apiKey": "dcd385f5d787b653a836c000c0c5f1fa8fce3acb574fe28fcd5b03ab00a41d6e",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
