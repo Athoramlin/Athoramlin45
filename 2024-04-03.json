@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Obrien",
+  "age": 65,
+  "address": {
+    "street": "Imwos Lane",
+    "city": "Suziur",
+    "state": "ID",
+    "zip": "40154"
+  },
+  "contact": {
+    "phone": "(209) 468-1436",
+    "servicePhone": "800526359"
+  },
+  "birthday": "1993-06-10T20:59:45.634Z",
+  "ip": "95.199.139.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Vu dicecla afi zazoj riwuw badavo amufi aw za koz asepilod ucicufho. Kazofo tat wo le sabgod kaci es fahke foezoki va cah dainiim isiz nobotet ifnus. Egowi teuwki noica ketkoclot ob wuh ak ujrer uji fujulava mo ja.",
+    "bio": "No nu asmu ge zami cikod vezo sohhoj ro zi bopgofse egi hina awu tu jatateoce cigpobhen. Fozu duvwafhu cotmo ejomitupi kozit nolit pidi jo pefew nevigo davo nif sotca. Nag do azukirbim wuk epilepe buc efoji cikzi pehkus zupohej rutpid ettu. Lu irruuh hed nafur wahnodvu wujcaju wusumbir wiwcuk ne uv wa venmi ir mekiz bulekvec avlum ca la. Awuejouwu koteleci sa nirof sukdasde kuoni awekujcis lunah eje osehuv afici gotvod ozfobes. Kuep bebimsim luddetgi fesho egpu furfu zuw worotcuj sipobeje cevgemim jebce vuufje celag mad."
+  },
+  "apiKey": "70af59e91f4e0b55a9ca830e37e778eb10af898ae551ad656cf9744dfd6f70f8",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
