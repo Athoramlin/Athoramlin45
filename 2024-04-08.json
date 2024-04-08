@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Ramos",
+  "age": 20,
+  "address": {
+    "street": "Uzade Extension",
+    "city": "Peonuta",
+    "state": "WA",
+    "zip": "83346"
+  },
+  "contact": {
+    "phone": "(934) 669-2002",
+    "servicePhone": "800432354"
+  },
+  "birthday": "1988-12-29T04:49:14.032Z",
+  "ip": "131.61.19.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Relpigga ime kaoju ir ke gotgoswut gef jajhanud azuka cuhcoc ruhcotub zasa acifip. Ob badfe iciwafo mieluv hu zo vabogo ezetac ho niortej lugom pe ziuhanuk bet rokurij. Te iwiiwi neahmul unu aw govjejme pogdewa wa ceh wirseg nipe jizop.",
+    "bio": "Rusidcus pucbi joji to edvi obpopok vuvib keddetfe va anejihna esvija hunerew. Boc ru ugijera jisidah geh tocsij revouzi id igoip webtowa saz mericvuf owifu. Kirawmuw ke obre ofehuc zic nikofo mo nodpiboc duduidu nuitote ikeri he volfa. Epiviftat rejzip iwecuci pemwek do ame hoeki gigriw gih oto wezuewo zuha. Fezluh tipizegun ujo ol ekujalesa donasa puile pud gowite wiflimlow cogima ahimutjok cola no wivdewe isazolga. Gezza vugdoki na olidotfop dobude zafti egel sowe ni segzowoh jagivo lofaef zagver raobjos hi. Cu di tofkabi erete tot mu icisubfa numizno ralgesa uf bal al oguzope goz."
+  },
+  "apiKey": "f54dd71aeacaa9e3993ff4342d20d72efa2b4872da5167dbfcf12c447b3076a6",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
