@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Tate",
+  "age": 41,
+  "address": {
+    "street": "Suvrev Center",
+    "city": "Ubkolbi",
+    "state": "UT",
+    "zip": "66104"
+  },
+  "contact": {
+    "phone": "(579) 660-5202",
+    "servicePhone": "800827988"
+  },
+  "birthday": "1998-12-24T22:12:47.299Z",
+  "ip": "118.107.129.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Hiet geta za zatde gil ev nosda pi zatlim dihkuz gigera jarujvi molju dehseevu piftinza. Bewtawza ignik luihuwo gu cifgu ow ni eh nefnu wajesre di ludet walsibza vomepvow zopobfu liemanot. Lofa lev bo piimugel utiede ah ofoko huzgikpo de pecgepkun idabofwop hiwhiwmi mupemifa. Diklip umro sa zi gejuffaz signukco dup ku ig zipdauf ecepizul iha erra dobzi lav.",
+    "bio": "Zakuc sakzokken fag ihilirso cisfi emrijvib lietu kig hu viaga wugolud sip sonmikkut hu oni uladoni. Tatitbew cuciwig fejihe mugeji we mupasef kused ifmo mofa hozes tunzergij igo zi. La iluedbul wu huulodi ru he ani ut vudunuc fog cip hisnevla."
+  },
+  "apiKey": "8c315ed2fb559c8b3d18b6c57d31e5f6ffd6710a1585aa65179a89417e60f5c0",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
